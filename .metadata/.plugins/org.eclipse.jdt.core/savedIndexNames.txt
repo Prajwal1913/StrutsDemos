@@ -1,0 +1,25 @@
+INDEX VERSION 1.131+C:\Users\prajwal.n\Training\strutsdemos\.metadata\.plugins\org.eclipse.jdt.core
+3366347522.index
+328056740.index
+1452466801.index
+860849694.index
+2979200826.index
+796081071.index
+4088476319.index
+2502530518.index
+1566012609.index
+502486821.index
+3787199337.index
+78035025.index
+641064708.index
+1802004676.index
+979188037.index
+693241773.index
+70322715.index
+551380109.index
+3413725848.index
+2236646207.index
+3283247064.index
+2012956300.index
+1865797976.index
+2894892201.index

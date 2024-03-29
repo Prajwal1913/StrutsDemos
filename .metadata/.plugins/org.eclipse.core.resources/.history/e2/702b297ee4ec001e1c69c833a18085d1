@@ -1,0 +1,15 @@
+package com.struts.action;
+
+import java.util.Map;
+
+import org.apache.struts2.interceptor.SessionAware;
+
+import com.opensymphony.xwork2.ActionSupport;
+
+public class GreetAction extends ActionSupport implements SessionAware{
+
+	private String name;
+	private Map<String, Object> userSession;
+	
+
+}

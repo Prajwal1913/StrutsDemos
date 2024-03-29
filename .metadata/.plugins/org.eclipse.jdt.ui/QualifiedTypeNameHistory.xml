@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.struts.model.Employee"/>
+    <fullyQualifiedTypeName name="com.student.model.Student"/>
+    <fullyQualifiedTypeName name="com.struts.model.User"/>
+    <fullyQualifiedTypeName name="com.example.model.Employee"/>
+    <fullyQualifiedTypeName name="org.apache.struts2.convention.annotation.Namespace"/>
+    <fullyQualifiedTypeName name="org.apache.struts2.convention.annotation.ResultPath"/>
+    <fullyQualifiedTypeName name="org.apache.struts2.convention.annotation.Action"/>
+    <fullyQualifiedTypeName name="com.example.model.Student"/>
+    <fullyQualifiedTypeName name="org.apache.struts2.convention.annotation.Result"/>
+    <fullyQualifiedTypeName name="com.struts.model.Student"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
+    <fullyQualifiedTypeName name="org.apache.struts2.interceptor.SessionAware"/>
+    <fullyQualifiedTypeName name="com.opensymphony.xwork2.util.ValueStack"/>
+    <fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionContext"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

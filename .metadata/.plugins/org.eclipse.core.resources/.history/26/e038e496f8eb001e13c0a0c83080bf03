@@ -1,0 +1,25 @@
+package com.struts.action;
+
+import org.apache.struts2.convention.annotation.Namespace;
+
+import com.struts.model.Employee;
+
+@Namespace("/")
+public class EmployeeAction {
+
+	private Employee employee;
+
+	public Employee getEmployee() {
+		return employee;
+	}
+
+	public void setEmployee(Employee employee) {
+		this.employee = employee;
+	}
+	
+	public String execute() {
+		if(employee.getEmployeeName().equals("prajwal"))
+			return "success";
+		return "error";
+	}
+}

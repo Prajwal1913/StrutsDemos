@@ -1,0 +1,23 @@
+package com.struts.action;
+
+import com.struts.model.User;
+
+public class LoginAction {
+
+	private User user;
+
+	public User getUser() {
+		return user;
+	}
+
+	public void setUser(User user) {
+		this.user = user;
+	}
+	
+	public String execute() {
+		if(username().equals("praj"))
+			return "success";
+		return "error";
+		
+	}
+}

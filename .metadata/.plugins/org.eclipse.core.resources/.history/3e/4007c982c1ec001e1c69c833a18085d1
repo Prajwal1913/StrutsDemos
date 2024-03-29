@@ -1,0 +1,9 @@
+package com.struts.action;
+
+import com.struts.model.Student;
+
+public class StudentAction {
+
+	
+	private Student student;
+}

@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@  taglib prefix="s" uri="/struts-tags"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+${student}
+Name:${student.studentName }
+City:${student.city }
+Age:${student.age }
+Allowance:${student.allowance }
+course:${student.course }
+Gender:${student.gender }
+Email:${student.email }
+Hobby:${student.hobby }
+</body>
+</html>

@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+C:\Users\prajwal.n\Training\strutsdemos\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+78035025.index
+3366347522.index
+171470171.index
+713811802.index
+1802004676.index
+979188037.index
+434781106.index
+3209415550.index
+70322715.index
+4233624835.index
+1986481135.index

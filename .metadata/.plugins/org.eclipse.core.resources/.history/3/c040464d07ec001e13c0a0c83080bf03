@@ -1,0 +1,9 @@
+package com.example.model;
+
+public class Employee {
+private String name;
+private String city;
+private int age;
+private double salary;
+private String email;
+}

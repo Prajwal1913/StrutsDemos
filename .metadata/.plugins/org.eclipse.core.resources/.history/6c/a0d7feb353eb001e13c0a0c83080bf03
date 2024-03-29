@@ -1,0 +1,5 @@
+package com.struts.model.Employee;
+
+public class EmployeeAction {
+
+}
